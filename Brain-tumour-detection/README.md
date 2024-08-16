@@ -62,6 +62,6 @@ Brain Tumors are complex. There are a lot of abnormalities in the sizes and loca
 
 <a href="https://www.linkedin.com/in/adarshtiwari144/"> ![alt text](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>&emsp;
 <a href="https://www.instagram.com/shashank_sundi13/">![alt text](https://img.shields.io/badge/Shashank_Sundi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>&emsp;
-<a href="mailto:sundi.sn@gmail.com">![alt text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:sundi.sn@gmail.com">![alt text]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://media.licdn.com/dms/image/D4D03AQF-_8YOo4A8Zg/profile-displayphoto-shrink_800_800/0/1714410310631?e=1729123200&v=beta&t=DkLpiecPPt-X7U3hak_Wo2W0oq8hpQ1YOn0Rlf7o-wQ))</a>
 
 <hr>
