@@ -1,17 +1,6 @@
 # BRAIN-TUMOUR-DETECTION
 
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://brain-tumor-detection-sundi.azurewebsites.net/)&nbsp;
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)&nbsp;
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">&nbsp;
-![GitHub repo size](https://img.shields.io/github/repo-size/Shashank-Sundi/BRAIN-TUMOUR-DETECTION)&nbsp;
-![Lines of code](https://img.shields.io/tokei/lines/github/Shashank-Sundi/BRAIN-TUMOUR-DETECTION?style=flat)
-
-<hr>
-
-
-<hr>
-
 ## Original Dataset and  Notebooks
 
 * Original Dataset : https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet.git
@@ -43,9 +32,5 @@ Brain Tumors are complex. There are a lot of abnormalities in the sizes and loca
 
 
   
-## Contact
 
-<a href="https://www.linkedin.com/in/adarshtiwari144/"> ![alt text](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>&emsp;
-<a href="https://www.instagram.com/adarshtiwarii144">![alt text](https://img.shields.io/badge/Shashank_Sundi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>&emsp;
 
-<hr>
