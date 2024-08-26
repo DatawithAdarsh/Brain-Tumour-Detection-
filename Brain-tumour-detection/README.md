@@ -9,10 +9,6 @@
 
 <hr>
 
-## Deployments
-* Azure : http://brain-tumor-detection-sundi.azurewebsites.net/
-
-* Heroku : https://brain-tumor-detection-sundi.herokuapp.com/
 
 <hr>
 
@@ -20,7 +16,6 @@
 
 * Original Dataset : https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet.git
 
-* Notebook Page : https://shashank-sundi.github.io/BRAIN-TUMOUR-DETECTION/
 
 * Colab Notebook : https://colab.research.google.com/drive/1IjFYHuim8on_1gbiiaBStBpxoe4voB9e?usp=sharing
 
